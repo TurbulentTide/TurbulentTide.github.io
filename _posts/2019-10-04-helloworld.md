@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Ég bjó til þessa vefsíðu"
 date: 2019-10-04
 ---
